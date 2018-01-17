@@ -1,0 +1,704 @@
+[
+
+  {
+    "title": "Aerides houlletiana",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Aerides-houlletiana.jpg",
+    "url": "https://www.elsner-orchideen.de/aerides-houlletiana.html",
+    "price": "24,90 €"
+  },
+  {
+    "title": "Amesiella monticola",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/amesiella_monticola.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Amesiella-monticola.html",
+    "price": "14,95 €",
+    "description": "near blooming size"
+  },
+  {
+    "title": "Amesiella philippinense x self",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/amesiella_philippinense_2.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Amesiella-philippinense-x-self.html",
+    "price": "16,90 €",
+    "description": "blooming size, mounted,"
+  },
+  {
+    "title": "Ancistrochilus rothschildianus",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/ancistrochilus_rothschildianus_1202_0.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Ancistrochilus-rothschildianus-1202.html",
+    "price": "14,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Benzingia reichenbachiana",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/benzingiareichenbachiana.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Benzingia-reichenbachiana.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Bollea ecuadorana",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/bolleaecuadorana.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Bollea-ecuadorana.html",
+    "price": "24,95 €",
+    "description": "blooming size in 12 cm pot"
+  },
+  {
+    "title": "Bothrochilus bellus",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/bothrochilus_bellus.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Bothrochilus-bellus.html",
+    "price": "20,00 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Capanemia uliginosa",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Capanemia-uliginosa.jpg",
+    "url": "https://www.elsner-orchideen.de/capanemia-uliginosa.html",
+    "price": "13,95 €"
+  }
+,
+  {
+    "title": "Ceratocentron fesselii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/ceratocentron_fesselii.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Ceratocentron-fesselii.html",
+    "price": "14,95 €",
+    "description": "blooming size,mounted"
+  },
+  {
+    "title": "Ceratostylis pristina",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Ceratostylis-pristina.jpg",
+    "url": "https://www.elsner-orchideen.de/ceratostylis-pristina.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Chelonistele sulphurea",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Chelonistele%20sulphurea.jpg",
+    "url": "https://www.elsner-orchideen.de/chelonistele-sulphurea.html",
+    "price": "15,90 €"
+  },
+  {
+    "title": "Chiloschista usneoides",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Chiloschista-usneoides.jpg",
+    "url": "https://www.elsner-orchideen.de/chiloschista-usneoides.html",
+    "price": "14,90 €"
+  },
+  {
+    "title": "Christensonia vietnamica",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/christensonia_vietnamica.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Christensonia-vietnamica.html",
+    "price": "17,90 €",
+    "description": "blooming size, mounted"
+  },
+  {
+    "title": "Cleisostoma birmanica",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/cleisostomabirmanicum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Cleisostoma-birmanica.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Comparettia macroplectron",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/comparettia_macroplectron.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Comparettia-macroplectron.html",
+    "price": "15,90 €",
+    "description": "blooming size , mounted"
+  },
+  {
+    "title": "Cuitlauzina pendula",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Cuitlauzina%20pendula.jpg",
+    "url": "https://www.elsner-orchideen.de/cuitlauzina-pendula.html",
+    "price": "32,00 €"
+  }
+,
+  {
+    "title": "Cymbidium tigrinum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Cymbidium-tigrinum-4.JPG",
+    "url": "https://www.elsner-orchideen.de/other-species/Cymbidium-tigrinum.html",
+    "price": "14,90 €"
+  },
+  {
+    "title": "Dendrochilum apoense",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Dendrochillum%20apoense.JPG",
+    "url": "https://www.elsner-orchideen.de/dendrochilum-apoense.html",
+    "price": "16,90 €"
+  },
+  {
+    "title": "Dendrochilum magnum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/dendrochilum_magnum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Dendrochilum-magnum.html",
+    "price": "25,00 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Dendrophylax fawcettii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Dendrophylax-fawcettii-plant.JPG",
+    "url": "https://www.elsner-orchideen.de/dendrophylax-fawcettii.html",
+    "price": "14,90 €"
+  },
+  {
+    "title": "Dendrophylax lindenii x sallei",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Dendrophylax-lindenii-x-sallei.JPG",
+    "url": "https://www.elsner-orchideen.de/dendrophylax-lindenii-x-sallei.html",
+    "price": "22,90 €"
+  },
+  {
+    "title": "Dendrophylax sallei",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Dendrophylax-sallei.JPG",
+    "url": "https://www.elsner-orchideen.de/dendrophylax-sallei.html",
+    "price": "15,00 €"
+  },
+  {
+    "title": "Dichaea species (Mexico)",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Dichaea-species.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Dichaea-species--Mexico-.html",
+    "price": "19,90 €"
+  },
+  {
+    "title": "Diplocaulobium chrysotropis",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Diplocaulobium-chrysotropis.jpg",
+    "url": "https://www.elsner-orchideen.de/diplocaulobium-chrysotropis.html",
+    "price": "14,95 €"
+  }
+,
+  {
+    "title": "Diplocaulobium pulvilliferum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Diplocaulobium%20pulvilliferum.JPG",
+    "url": "https://www.elsner-orchideen.de/diplocaulobium-pulvilliferum.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Diploprora truncata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/diploprora_truncata.jpg",
+    "url": "https://www.elsner-orchideen.de/diploprora-truncata.html",
+    "price": "12,90 €",
+    "description": "near blooming size,mouted"
+  },
+  {
+    "title": "Epidendrum capricornu",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Epi.-capricornu.JPG",
+    "url": "https://www.elsner-orchideen.de/epidendrum-capricornu.html",
+    "price": "14,90 €"
+  },
+  {
+    "title": "Epidendrum melanoporphyreum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/epidendrummelanoporphyreum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Epidendrum-melanoporphyreum.html",
+    "price": "16,95 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Epidendrum stamfordianum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/epidendrumstamfordianum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Epidendrum-stamfordianum.html",
+    "price": "17,90 €",
+    "description": "near blooming size in 12 cm pot"
+  },
+  {
+    "title": "Epigeneium cacuminis",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Epigeneium-cacuminis.JPG",
+    "url": "https://www.elsner-orchideen.de/epigeneium-cacuminis.html",
+    "price": "19,95 €"
+  },
+  {
+    "title": "Epigeneium chapaense",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/epigeneiumchapaense.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Epigeneium-chapaense.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Epigeneium gongshanense",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Epigenieum-gonghanense.JPG",
+    "url": "https://www.elsner-orchideen.de/epigeneium-gongshanense.html",
+    "price": "17,95 €"
+  }
+,
+  {
+    "title": "Galeandra baueri",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/galeandra_baueri.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Galeandra-baueri.html",
+    "price": "13,00 €"
+  },
+  {
+    "title": "Gastrochilus acutifolius",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/gastrochilus_acutifolius.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Gastrochilus-acutifolius.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Gastrochilus bellinus",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/gastr.bellinus.jpg",
+    "url": "https://www.elsner-orchideen.de/gastrochilus-bellinus.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Gastrochilus calceolaris",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/gastrochilus_calceolaris.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Gastrochilus-calceolaris.html",
+    "price": "12,95 €"
+  },
+  {
+    "title": "Gomesa recurva",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Gomesa-recurva.JPG",
+    "url": "https://www.elsner-orchideen.de/gomesa-recurva.html",
+    "price": "16,90 €"
+  },
+  {
+    "title": "Gongora galeata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/gongoragaleata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Gongora-galeata.html",
+    "price": "17,90 €",
+    "description": "blooming size 12-13 cm pot"
+  },
+  {
+    "title": "Grosourdya muscosa",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/grosourdya_muscosa.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Grosourdya-muscosa.html",
+    "price": "17,90 €",
+    "description": "mounted, blooming size"
+  },
+  {
+    "title": "Holcoglossum kimballianum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/holcoglossum_kimballianum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Holcoglossum-kimballianum.html",
+    "price": "18,00 €"
+  }
+,
+  {
+    "title": "Holcoglossum subulifolium",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Holcoglossum-subulifolium.JPG",
+    "url": "https://www.elsner-orchideen.de/holcoglossum-subulifolium.html",
+    "price": "24,95 €"
+  },
+  {
+    "title": "Holcoglossum wangii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/holcoglossum_wangii.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Holcoglossum-wangii.html",
+    "price": "15,95 €",
+    "description": "blooming size, mounted,"
+  },
+  {
+    "title": "Holcoglossum weixiense",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/holcogl.weixiense2.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Holcoglossum-weixiense.html",
+    "price": "15,95 €",
+    "description": "intermediate,mounted"
+  },
+  {
+    "title": "Homalopetalum pumilio",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Homalopetalum%20pumilio.jpg",
+    "url": "https://www.elsner-orchideen.de/homalopetalum-pumilio.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Huntleya meleagris",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Huntleya-melagaris.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Huntleya-meleagris.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Hymenorchis javanica",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Hymemorchis-javanica.JPG",
+    "url": "https://www.elsner-orchideen.de/hymenorchis-javanica.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Ionopsis paniculata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Ionopsis-paniculata.jpg",
+    "url": "https://www.elsner-orchideen.de/ionopsis-paniculata.html",
+    "price": "11,95 €"
+  },
+  {
+    "title": "Kefersteinia pellita",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Kefersteinia-pellita.JPG",
+    "url": "https://www.elsner-orchideen.de/kefersteinia-pellita.html",
+    "price": "15,95 €"
+  }
+,
+  {
+    "title": "Kefersteinia tolimensis",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Kefersteinia-tolimensis.jpg",
+    "url": "https://www.elsner-orchideen.de/kefersteinia-tolimensis.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Lepanthes gargoyla",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lepanthes-gargoyla.jpg",
+    "url": "https://www.elsner-orchideen.de/lepanthes-gargoyla.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Leptotes bicolor",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/leptotes_bicolor.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Leptotes-bicolor.html",
+    "price": "12,00 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Leptotes pohlitinocoi",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/leptotes_pohlitinocoi.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Leptotes-pohlitinocoi.html",
+    "price": "9,95 €",
+    "description": "1 year to bloom, mounted"
+  },
+  {
+    "title": "Macradenia multiflora",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Macradenia-multiflora.jpg",
+    "url": "https://www.elsner-orchideen.de/macradenia-multiflora.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Macroclinium  species",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/macrocliniumsp.1.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Macroclinium--species.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Macroclinium manabinum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/macroclinium_manabinum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Macroclinium-manabinum.html",
+    "price": "14,90 €",
+    "description": "blooming size,mounted"
+  },
+  {
+    "title": "Malleola dentifera",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Malleola-dentifera.jpg",
+    "url": "https://www.elsner-orchideen.de/malleola-dentifera.html",
+    "price": "17,90 €"
+  }
+,
+  {
+    "title": "Megalotus bifidus",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Megalotus%20bifidus.jpg",
+    "url": "https://www.elsner-orchideen.de/megalotus-bifidus.html",
+    "price": "16,90 €"
+  },
+  {
+    "title": "Microterangis (Chamaeangis) hildebrandtii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Microterangis-hildebrandtii.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Microterangis--Chamaeangis--hildebrandtii.html",
+    "price": "15,95 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Nageliella angustifolia",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Nageliella.jpg",
+    "url": "https://www.elsner-orchideen.de/nageliella-angustifolia.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Neofinetia falcata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/neofinetia_falcata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Neofinetia-falcata.html",
+    "price": "15,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Neofinetia falcata 'Shutenno' x self",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/neofinetia_falcata_shutenno.jpg",
+    "url": "https://www.elsner-orchideen.de/neofinetia-falcata-shutenno.html",
+    "price": "24,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Oberonia rufilabris",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Oberonia-rufilabris.JPG",
+    "url": "https://www.elsner-orchideen.de/oberonia-rufilabris.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Odontoglossum naevium x self",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/odontoglossumnaevium.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Odontoglossum-naevium-x-self.html",
+    "price": "12,95 €",
+    "description": "young plant in 5,5 cm pot , 2-3 years to bloom"
+  },
+  {
+    "title": "Oeonia volucris",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/oeonia-volucris.html",
+    "price": "17,90 €"
+  }
+,
+  {
+    "title": "Ornithocephalus manabina",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Ornithocephalus%20manabina.jpg",
+    "url": "https://www.elsner-orchideen.de/ornithocephalus-manabina.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Paraphalaenopsis labukensis x Seidenfadenia mitrata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/paraphalaenopsislabukensexseidenfadeniamitrata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Paraphalaenopsis-labukensis-x-Seidenfadenia-mitrata.html",
+    "price": "17,90 €",
+    "description": "blooming size , mounted"
+  },
+  {
+    "title": "Peristeria elata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Peristeria%20elata.jpg",
+    "url": "https://www.elsner-orchideen.de/peristeria-elata.html",
+    "price": "17,95 €"
+  },
+  {
+    "title": "Pescatoria lehmanii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/pescatorialehmanii.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Pescatoria-lehmanii.html",
+    "price": "21,90 €",
+    "description": "intermediate to warm,12 cm pot"
+  },
+  {
+    "title": "Plectrelminthus caudatus",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Plectrelminthus%20caudautus.jpg",
+    "url": "https://www.elsner-orchideen.de/plectrelminthus-caudatus.html",
+    "price": "14,90 €"
+  },
+  {
+    "title": "Pleurothallis (Acronia) allenii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/pleurothallis_acronia_allenii.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Pleurothallis--Acronia--allenii.html",
+    "price": "18,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Pleurothallis anfracta",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/pleurothallis_anfracta.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Pleurothallis-anfracta.html",
+    "price": "16,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Pleurothallis flexuosa yellow",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Pleurothallis%20flexuosa%20yellow.jpg",
+    "url": "https://www.elsner-orchideen.de/pleurothallis-flexuosa-yellow.html",
+    "price": "18,90 €"
+  }
+,
+  {
+    "title": "Pleurothallis leptotifolia",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/pleurothallis_leptotifolia.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Pleurothallis-leptotifolia.html",
+    "price": "14,90 €",
+    "description": "blooming size, mounted"
+  },
+  {
+    "title": "Pleurothallis macroblepharis",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Pleurothallis%20macroblepharis.gif",
+    "url": "https://www.elsner-orchideen.de/pleurothallis-macroblepharis.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Pleurothallis tribuloides",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/pleurothallis_tribuloides.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Pleurothallis-tribuloides.html",
+    "price": "16,90 €",
+    "description": "mounted, strong plants"
+  },
+  {
+    "title": "Pleurothallis tripterantha",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Pleurothallis%20tripterantha.gif",
+    "url": "https://www.elsner-orchideen.de/pleurothallis-tripterantha.html",
+    "price": "14,95 €"
+  },
+  {
+    "title": "Pleurothallis truncata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/pleurothallistruncata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Pleurothallis-truncata.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Pleurothallis viduata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Pleurothallis-viduata.jpg",
+    "url": "https://www.elsner-orchideen.de/pleurothallis-viduata.html",
+    "price": "15,95 €"
+  },
+  {
+    "title": "Polystachia bella x maculata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/polystachia_bella_x_maculata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Polystachia-bella-x-maculata.html",
+    "price": "13,00 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Porroglossum muscosum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/porroglossummuscosum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Porroglossum-muscosum.html",
+    "price": "18,50 €"
+  }
+,
+  {
+    "title": "Prosthechea vespa",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Prosthechea-vespa.JPG",
+    "url": "https://www.elsner-orchideen.de/prosthechea-vespa.html",
+    "price": "17,95 €"
+  },
+  {
+    "title": "Renanthera citrina",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/renanthera_citrina.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Renanthera-citrina.html",
+    "price": "16,90 €",
+    "description": "near blooming size,"
+  },
+  {
+    "title": "Renanthera monachica",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/other-species/Renanthera-monachica.html",
+    "price": "15,95 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Renantherella histrionica",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/renantherellahistronica.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Renantherella-histrionica.html",
+    "price": "18,90 €",
+    "description": "blooming size,warm growing,flower size 2,5 cm"
+  },
+  {
+    "title": "Restrepia trichoglossa",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/restrepia_trichoglossa_1024x768.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Restrepia-trichoglossa.html",
+    "price": "12,95 €",
+    "description": "blooming size potted in moss,"
+  },
+  {
+    "title": "Rhynchostele ehrenbergii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/rhynchosteleehrenbergii3.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Rhynchostele-ehrenbergii.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Rodriguezia granadensis",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Rodrigeuzia%20granadensis.JPG",
+    "url": "https://www.elsner-orchideen.de/rodriguezia-granadensis.html",
+    "price": "19,90 €"
+  },
+  {
+    "title": "Rudolfiella picta",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/rudolfiellapicta.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Rudolfiella-picta.html",
+    "price": "17,95 €",
+    "description": "blooming size , 11 cm pot"
+  }
+,
+  {
+    "title": "Scaphosepalum breve",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Scaphosepalum%20breve.jpg",
+    "url": "https://www.elsner-orchideen.de/scaphosepalum-breve.html",
+    "price": "18,00 €"
+  },
+  {
+    "title": "Schoenorchis gemmata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/schoenorchids_gemmata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Schoenorchis-gemmata.html",
+    "price": "16,90 €",
+    "description": "mounted, blooming size"
+  },
+  {
+    "title": "Sedirea japonica",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/sedirea_japonica_nah.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Sedirea-japonica.html",
+    "price": "14,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Seidenfadenia (Aerides) mitrata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/seidenfadenia_mitrata.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Seidenfadenia--Aerides--mitrata.html",
+    "price": "17,90 €"
+  },
+  {
+    "title": "Solenidium racemosum",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/other-species/Solenidium-racemosum.html",
+    "price": "19,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Thrixspermum leucarachne",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Thrixspermum%20leucarachne.jpg",
+    "url": "https://www.elsner-orchideen.de/thrixspermum-leucarachne.html",
+    "price": "15,90 €"
+  },
+  {
+    "title": "Thunia marshalliana",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/thunia_marshalliana.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Thunia-marshalliana.html",
+    "price": "15,90 €",
+    "description": "1 year to bloom"
+  },
+  {
+    "title": "Trichocentrum albococcineum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/trichocentrum_albococcineum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichocentrum-albococcineum.html",
+    "price": "14,95 €",
+    "description": "mounted,  1 year to bloom"
+  }
+,
+  {
+    "title": "Trichocentrum Nathakun",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Trichocentrum%20Nathakun.JPG",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichocentrum-Nathakun.html",
+    "price": "19,95 €",
+    "description": "blooming size, lanceanum hybrid"
+  },
+  {
+    "title": "Trichocentrum pumilum (Oncidium)",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/onc.5221_nah.jpg",
+    "url": "https://www.elsner-orchideen.de/trichocentrum-pumilum-oncidium.html",
+    "price": "15,95 €",
+    "description": "blooming size,  mounted"
+  },
+  {
+    "title": "Trichocentrum tigrinum",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichocentrum-tigrinum.html",
+    "price": "18,90 €"
+  },
+  {
+    "title": "Trichoglottis pusilla",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/trichoglottispusillanah.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichoglottis-pusilla.html",
+    "price": "14,95 €"
+  },
+  {
+    "title": "Trichopilia marginata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/trichopiliamarginata_1403_0.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichopilia-marginata-1403.html",
+    "price": "12,90 €",
+    "description": "6 to 9 months to bloom"
+  },
+  {
+    "title": "Trichopilia marginata",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Trichopilia-marginata.JPG",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichopilia-marginata.html",
+    "price": "16,95 €"
+  },
+  {
+    "title": "Trichopilia tortilis",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/trichopilia_tortilis_nah.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Trichopilia-tortilis.html",
+    "price": "14,90 €"
+  },
+  {
+    "title": "Tuberolabium papuanum",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Tuberolabium-papuanum.jpg",
+    "url": "https://www.elsner-orchideen.de/tuberolabium-papuanum.html",
+    "price": "16,90 €"
+  }
+,
+  {
+    "title": "Vandopsis parishii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/vandopsis_parishii.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Vandopsis-parishii.html",
+    "price": "14,95 €",
+    "description": "blooming size,,import"
+  },
+  {
+    "title": "Zootropion atropurpureum (schenkii)",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/zootropion_atropurpureum.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Zoothropion-schenkii.html",
+    "price": "11,00 €",
+    "description": "blooming size,"
+  },
+  {
+    "title": "Zygostates alleniana",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/zygostates_alleniana.jpg",
+    "url": "https://www.elsner-orchideen.de/other-species/Zygostates-alleniana.html",
+    "price": "14,95 €",
+    "description": "mounted,blooming size Import"
+  }
+]

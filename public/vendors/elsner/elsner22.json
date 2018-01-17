@@ -1,0 +1,56 @@
+[
+
+  {
+    "title": "Anguloa clowesii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Anguloa-clowesii.jpg",
+    "url": "https://www.elsner-orchideen.de/anguloa-clowesii.html",
+    "price": "19,95 €"
+  },
+  {
+    "title": "Anguloa eburnea",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Anguloa-erburnea.jpg",
+    "url": "https://www.elsner-orchideen.de/anguloa-eburnea.html",
+    "price": "22,90 €"
+  },
+  {
+    "title": "Bifrenaria aureo fulva",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/bifrenaria_aureo_fulva.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Bifrenaria-aureo-fulva.html",
+    "price": "12,00 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Lycaste deppei",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lycaste_deppei.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-deppei.html",
+    "price": "18,90 €",
+    "description": "near blooming size,"
+  },
+  {
+    "title": "Lycaste dowiana",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lycaste_dowiana.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-dowiana.html",
+    "price": "24,90 €",
+    "description": "blooming size,import"
+  },
+  {
+    "title": "Lycaste lasioglossa",
+    "image": "https://www.elsner-orchideen.de/admin/html/assets/images/legacy/icons/Grün.png",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-lasioglossa.html",
+    "price": "17,95 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Lycaste reichenbachii",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/lycastereichenbachii.jpg",
+    "url": "https://www.elsner-orchideen.de/Lycaste/Lycaste-reichenbachii.html",
+    "price": "22,90 €",
+    "description": "blooming size"
+  },
+  {
+    "title": "Lycaste xytriophora",
+    "image": "https://www.elsner-orchideen.de/images/product_images/info_images/Lycaste%20xytriophora.JPG",
+    "url": "https://www.elsner-orchideen.de/lycaste-xytriophora.html",
+    "price": "24,95 €"
+  }
+]
