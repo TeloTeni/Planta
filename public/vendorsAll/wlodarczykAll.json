@@ -1010,7 +1010,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aspasia-lunata-p-233.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xaspasia_lunata_gross.jpg.pagespeed.ic.DDowDtYIjI.jpg",
-    "description": "Flowering size orchid,"
+    "description": "Flowering size orchid,",
+    "title": "Aspasia lunata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-cucullata-p-750.html",
@@ -1030,29 +1031,34 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barkeria-whartoniana-p-1572.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x219xbarkeria_whartoniana_gross.jpg.pagespeed.ic.6jbJmDSpaE.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Barkeria whartoniana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-harrisoniae-p-673.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbifrenaria_harrisoniae_gross.jpg.pagespeed.ic.uIQp9_aRu_.jpg",
-    "description": "Flowering size, ca. 25cm"
+    "description": "Flowering size, ca. 25cm",
+    "title": "Bifrenaria harrisoniae"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-vitellina-p-1417.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x274xbifrenaria_vitellina_gross.jpg.pagespeed.ic.wd3YLKjDE4.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bifrenaria vitellina"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/brassia-maculata-p-1481.html",
     "price": "19.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Brassia maculata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/capanemia-micromera-p-1406.html",
     "price": "19.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Capanemia micromera"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/capanemia-superflua-p-1407.html",
@@ -2355,7 +2361,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/vanda-coerulea-p-1050.html",
     "price": "25.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x315xvanda_coerulea_gross.jpg.pagespeed.ic.7ZjYMqo3_E.jpg",
-    "description": "Flowering size orchid in 10 month"
+    "description": "Flowering size orchid in 10 month",
+    "title": "Vanda coerulea"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/vanda-denisoniana-p-594.html",
@@ -2425,87 +2432,102 @@
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-serpenticaulis-wolfei-p-1478.html",
     "price": "15.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum (Serpenticaulis) wolfei"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-ambrosia-p-745.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xbulbophyllum_ambrosia_gross.jpg.pagespeed.ic.Ao5GTjK06T.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum ambrosia"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-barbigerum-p-1479.html",
     "price": "20.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum barbigerum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-careyanum-p-1344.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbulbophyllum_careyanum_gross.jpg.pagespeed.ic.-zqSk1zlPR.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum careyanum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-carunculatum-p-496.html",
     "price": "18.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x314xBulbophyllum_carunculatum_gross.jpg.pagespeed.ic.nQQR6FaNsp.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum carunculatum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-comosum-p-1570.html",
     "price": "25.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum comosum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-crassipes-p-1465.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x204xbulbophyllum_crassipes_gross.jpg.pagespeed.ic.TKUcc_XtR0.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum crassipes"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-curthisii-p-544.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x189xbulbophyllum_curthisii_gross.jpg.pagespeed.ic.PNqpe8dVko.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum curthisii"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-dearei-p-532.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbulbophyllum_dearei_gross.jpg.pagespeed.ic.8vlAD68hAS.jpg",
-    "description": "Flowering size in a half year"
+    "description": "Flowering size in a half year",
+    "title": "Bulbophyllum dearei"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-delitescens-p-1246.html",
     "price": "13.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbulbophyllum_delitescens_gross.jpg.pagespeed.ic.MKQzhfsCPt.jpg",
-    "description": "This Bulbophyllum has its home in China, Viet"
+    "description": "This Bulbophyllum has its home in China, Viet",
+    "title": "Bulbophyllum delitescens"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-eberhardtii-p-906.html",
     "price": "13.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xBulbophyllum_eberhardtii_gross.jpg.pagespeed.ic.ZzkmpEyv7D.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum eberhardtii"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-ebulum-p-1024.html",
     "price": "17.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum ebulum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-echinolabium-p-1004.html",
     "price": "13.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x275xbulbophyllum_echinolabium_gross.jpg.pagespeed.ic.tNOLfFSzvx.jpg",
-    "description": "Young plant, fs in 1-2 years"
+    "description": "Young plant, fs in 1-2 years",
+    "title": "Bulbophyllum echinolabium"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-falcatum-p-534.html",
     "price": "16.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x123xBulbophyllum_falcatum3_gross.jpg.pagespeed.ic.cmH9nQb64m.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x123xBulbophyllum_falcatum3_gross.jpg.pagespeed.ic.cmH9nQb64m.jpg",
+    "title": "Bulbophyllum falcatum"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-fascinator-p-150.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x299xbulbophyllum_fascinator_gross.jpg.pagespeed.ic.wU4u_NzCjp.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bulbophyllum fascinator"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bulbophyllum-flabellum-veneres-p-1228.html",
@@ -2867,7 +2889,8 @@
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-leopoldii-p-531.html",
     "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xcattleya_leopoldii_gross.jpg.pagespeed.ic.eJSdIuv3W8.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xcattleya_leopoldii_gross.jpg.pagespeed.ic.eJSdIuv3W8.jpg",
+    "title": "Cattleya leopoldii"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/cattleya-maxima-p-454.html",
@@ -3015,7 +3038,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-mooreana-p-1347.html",
     "price": "39.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x228xcoelogyne_mooreana_gross.jpg.pagespeed.ic.1Md-z_gHhZ.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Coelogyne mooreana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-multiflora-p-930.html",
@@ -3035,19 +3059,22 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-punctulata-p-1242.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xcoelogyne_punctulata_gross.jpg.pagespeed.ic.IylXpHYMNn.jpg",
-    "description": "Flowering size orchid,fragrant"
+    "description": "Flowering size orchid,fragrant",
+    "title": "Coelogyne punctulata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-schilleriana-p-697.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x218xcoelogyne_schilleriana_gross.jpg.pagespeed.ic.wm3FZpqlEC.jpg",
-    "description": "Flowering size, 6 - 11cm, Attention: the plan"
+    "description": "Flowering size, 6 - 11cm, Attention: the plan",
+    "title": "Coelogyne schilleriana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-usitana-p-574.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x203xcoelogyne_usitana_gross.jpg.pagespeed.ic.zfMmfSCIoC.jpg",
-    "description": "Young plant, flowering size in one year"
+    "description": "Young plant, flowering size in one year",
+    "title": "Coelogyne usitana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-amabile-p-157.html",
@@ -3254,17 +3281,17 @@
     "title": "Dendrobium mohlianum"
   },
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-186.html",
-    "price": "18.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
-    "description": "Flowering size",
-    "title": "Dendrobium nudum"
-  },
-  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-185.html",
     "price": "23.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
     "description": "Flowering size, big adult plant",
+    "title": "Dendrobium nudum"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-186.html",
+    "price": "18.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
+    "description": "Flowering size",
     "title": "Dendrobium nudum"
   },
   {

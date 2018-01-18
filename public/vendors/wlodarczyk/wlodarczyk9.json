@@ -207,17 +207,17 @@
   }
 ,
   {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-186.html",
-    "price": "18.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
-    "description": "Flowering size",
-    "title": "Dendrobium nudum"
-  },
-  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-185.html",
     "price": "23.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
     "description": "Flowering size, big adult plant",
+    "title": "Dendrobium nudum"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-186.html",
+    "price": "18.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
+    "description": "Flowering size",
     "title": "Dendrobium nudum"
   },
   {

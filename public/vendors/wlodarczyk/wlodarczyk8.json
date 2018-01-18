@@ -45,7 +45,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-mooreana-p-1347.html",
     "price": "39.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x228xcoelogyne_mooreana_gross.jpg.pagespeed.ic.1Md-z_gHhZ.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Coelogyne mooreana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-multiflora-p-930.html",
@@ -65,18 +66,21 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-punctulata-p-1242.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xcoelogyne_punctulata_gross.jpg.pagespeed.ic.IylXpHYMNn.jpg",
-    "description": "Flowering size orchid,fragrant"
+    "description": "Flowering size orchid,fragrant",
+    "title": "Coelogyne punctulata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-schilleriana-p-697.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x218xcoelogyne_schilleriana_gross.jpg.pagespeed.ic.wm3FZpqlEC.jpg",
-    "description": "Flowering size, 6 - 11cm, Attention: the plan"
+    "description": "Flowering size, 6 - 11cm, Attention: the plan",
+    "title": "Coelogyne schilleriana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/coelogyne-usitana-p-574.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x203xcoelogyne_usitana_gross.jpg.pagespeed.ic.zfMmfSCIoC.jpg",
-    "description": "Young plant, flowering size in one year"
+    "description": "Young plant, flowering size in one year",
+    "title": "Coelogyne usitana"
   }
 ]

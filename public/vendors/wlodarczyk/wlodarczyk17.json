@@ -52,7 +52,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aspasia-lunata-p-233.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xaspasia_lunata_gross.jpg.pagespeed.ic.DDowDtYIjI.jpg",
-    "description": "Flowering size orchid,"
+    "description": "Flowering size orchid,",
+    "title": "Aspasia lunata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-cucullata-p-750.html",
@@ -72,29 +73,34 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barkeria-whartoniana-p-1572.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x219xbarkeria_whartoniana_gross.jpg.pagespeed.ic.6jbJmDSpaE.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Barkeria whartoniana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-harrisoniae-p-673.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xbifrenaria_harrisoniae_gross.jpg.pagespeed.ic.uIQp9_aRu_.jpg",
-    "description": "Flowering size, ca. 25cm"
+    "description": "Flowering size, ca. 25cm",
+    "title": "Bifrenaria harrisoniae"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/bifrenaria-vitellina-p-1417.html",
     "price": "19.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x274xbifrenaria_vitellina_gross.jpg.pagespeed.ic.wd3YLKjDE4.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Bifrenaria vitellina"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/brassia-maculata-p-1481.html",
     "price": "19.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Brassia maculata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/capanemia-micromera-p-1406.html",
     "price": "19.00 €",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Capanemia micromera"
   }
 ,
   {

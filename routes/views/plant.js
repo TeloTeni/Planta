@@ -43,36 +43,42 @@ exports = module.exports = function(req, res) {
 		for (var plant = 0; plant < plantsArr.length; plant++) {
 			product = plantsArr[plant].title;
 			url = plantsArr[plant].url;
-			plantsArr[plant].vendor = vendor;
-			plantsArr[plant].country = country;
-			//console.log(regs);
 
-			if (url !== undefined) {
-				if (product !== undefined) {
-					productVar = product.match(regs);
-					index = product.search(regs);
+			if (!url || !product) {
 
+					plantsArr.splice(plant, 1);
+					del = del + 1;
 
-					if (index === 0) {
-						for (var name = 0; name < namesArr.length; name++) {
-							short = namesArr[name].short;
-							full = namesArr[name].full;
-							var pVar = productVar[0];
-							//  console.log(pVar);
-							if (!pVar.search(short)) {
-								//console.log("yes")
-								console.log(product.replace(regs, full));
-								plantsArr[plant].title = product.replace(regs, full);
-								changed = changed + 1;
-							};
-						};
-					};
-				};
-			} else {
-				plantsArr.splice(plant, 1);
-				del = del + 1;
 			};
 		};
+		console.log("items deleted: " + del);
+		//console.log(regs);
+
+		for (var plant = 0; plant < plantsArr.length; plant++) {
+			product = plantsArr[plant].title;
+			url = plantsArr[plant].url;
+			plantsArr[plant].vendor = vendor;
+			plantsArr[plant].country = country;
+
+			productVar = product.match(regs);
+			index = product.search(regs);
+			if (index === 0) {
+				for (var name = 0; name < namesArr.length; name++) {
+					short = namesArr[name].short;
+					full = namesArr[name].full;
+					var pVar = productVar[0];
+					//  console.log(pVar);
+					if (!pVar.search(short)) {
+						//console.log("yes")
+						console.log(product.replace(regs, full));
+						plantsArr[plant].title = product.replace(regs, full);
+						changed = changed + 1;
+					};
+				};
+			};
+
+		};
+
 
 		console.log("items deleted: " + del);
 		console.log("items changed: " + changed);

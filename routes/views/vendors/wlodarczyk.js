@@ -22,7 +22,7 @@ var x = Xray({
     return typeof value === 'string' ? value.replace("...", "")  : value
     },
   },
-}).delay(1000);
+});
 
 exports = module.exports = function(req, res){
 var view = new keystone.View(req, res);
@@ -60,8 +60,8 @@ view.on('init', function(next){
 console.log('start');
 links.forEach(function(link, i){
 x(link, '#bodyContent > div > div > div > div > div',[{
-//title: 'a:nth-of-type(2)',
-title: x('a@href', '.product_info_name'),
+//title: 'a:nth-of-type(2):empty',
+title: x('a@href', '.col-md-5 > div > .product_info_name'),
 url: 'a@href | trim',
 price: 'span | trim | slice: 3 | trim | symbol',
 image: 'img@src',
