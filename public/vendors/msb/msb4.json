@@ -539,13 +539,6 @@
     "description": "mounted young plants"
   },
   {
-    "title": "Encyclia oliveirana",
-    "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5974/99CC/139D/AABA/C5D0/0A48/3647/D912/Encyclia_oliveirana_B_m.JPG",
-    "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20881",
-    "price": "25.00 €",
-    "description": "adult plants"
-  },
-  {
     "title": "Neofinetia falcata x Vanda teres var. alba",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/597F/82C8/0E25/9CAB/A588/0A48/3647/28D0/NFH_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/20895",
@@ -838,15 +831,15 @@
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/21084",
     "price": "9.90 €",
     "description": "plants flowering size"
-  }
-,
+  },
   {
     "title": "Maxillaria sophronitis",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5A47/6CBA/0427/7313/A75A/0A48/3548/73E1/Maxillaria_sophronitis_m.JPG",
     "url": "http://msb-orchideen.de/epages/d5ebfe92-7305-474a-b60e-86a9022e6c26.sf/en_GB/?ObjectPath=/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/Products/21085",
     "price": "9.90 €",
     "description": "divisions potted in moss"
-  },
+  }
+,
   {
     "title": "Schomburgkia thomsoniana",
     "image": "http://msb-orchideen.de/WebRoot/Store16/Shops/d5ebfe92-7305-474a-b60e-86a9022e6c26/5A47/8D16/4C89/8DA8/DBDE/0A48/3548/A436/Schomburgkia_thomsoniana_m.JPG",

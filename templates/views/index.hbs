@@ -1,15 +1,64 @@
 {{!< default}}
 <div class="container">
-	<div class="jumbotron"><img src="/images/logo.svg" width="160">
-		<h1>Welcome</h1>
-		<p>This is your new <a href='http://keystonejs.com' target='_blank'>KeystoneJS</a> website.</p>
-		<p>
-			It includes the latest versions of
-			<a href='http://getbootstrap.com/' target='_blank'>Bootstrap</a>
-			and <a href='http://www.jquery.com/' target='_blank'>jQuery</a>.
-		</p>
-		<p>Visit the <a href='http://keystonejs.com/guide' target='_blank'>Getting Started</a> guide to learn how to customise it.</p>
-		<hr>
+<div class="jumbotron" style="background-image: url(/orchid-stem_sm.jpg); background-size: cover;">
+	<!-- background-image="../test_doc/orchid-stem.jpg">
+	-->
+	<!--<img src="/images/logo.svg" width="160">
+-->
+
+<div class="well" style="background: rgba(240, 240, 240, 0.5); color: black;">
+		<h1 class="text-center font-italic"><b>PLANTATICA</b></h1>
+		<h3 class="text-center"><b>BEST ORCHID VENDORS IN ONE PLACE</b></h3>
+</div>
+<form  role="search" action="/search" method="GET">
+	<div class="form-group">
+		 <div class="col-lg-8 col-lg-offset-2">
+		<div class="input-group ">
+		<input type="text" class="form-control" id="keywords" name="keywords" placeholder="Search for orchids">
+		<span class="input-group-btn">
+			<button type="submit" class="btn btn-default"><b>Search</b></button>
+		</span>
+	</div>
+	</div>
+	</div>
+</form>
+
+</div>
+
+
+<div class ="container">
+  <h4>New Orchids</h4>
+
+  <div class ="search-results">
+    <table class="table table-hover">
+      <tr>
+                 <th>
+                     Name
+                 </th>
+                 <th>
+                     Vendor
+                 </th>
+                 <th>
+                     Price
+                 </th>
+             </tr>
+                 {{#each products}}
+             <tr>
+                 <td>
+                     {{title}}
+                 </td>
+                  <td>
+                     {{vendor}}
+                  </td>
+                  <td>
+                     {{price}}
+                  </td>
+             </tr>
+                     {{/each}}
+    </table>
+  </div>
+
+
 		<p>We have created a default Admin user for you with the email <strong>intelex_kiev@ua.fm</strong> and the password <strong>admin</strong>.</p>
 		<p><a href="/keystone/signin" style="margin-right: 10px" class="btn btn-lg btn-primary">Sign in</a> to use the Admin UI.</p>
 		<hr>
@@ -17,5 +66,10 @@
 			Remember to <a href='https://github.com/keystonejs/keystone' target='_blank'>Star KeystoneJS on GitHub</a> and
 			<a href='https://twitter.com/keystonejs' target='_blank'>follow @keystonejs</a> on twitter for updates.
 		</p>
+
 	</div>
-</div>
+	<footer class="footer">
+		<div class="container">
+			<span class="text-muted">Povered by Plantatica Team, 2017</span>
+		</div>
+	</footer>

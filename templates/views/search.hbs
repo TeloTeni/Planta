@@ -1,0 +1,76 @@
+
+<div class= "container">
+<form  role="search" action="/search" method="GET">
+	<div class="form-group">
+		 <div class="col-lg-8 col-lg-offset-2">
+		<div class="input-group ">
+		<input type="text" class="form-control" id="keywords" name="keywords" placeholder="New search">
+		<span class="input-group-btn">
+			<button type="submit" class="btn btn-default">Search</button>
+		</span>
+	</div>
+	</div>
+	</div>
+</form>
+</div>
+<p></p>
+<div class="container">
+  <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4>Search Results for <b>"{{data.keywords}}"</b> ({{data.qnt}} items was found)</h4></div>
+      <div class="panel-body">
+				
+				<p></p>
+        <!-- Table -->
+        <table class="table table-striped table-hover">
+
+          <tr>
+                    <th>
+                        Img
+                     </th>
+                     <th>
+                         Name
+                     </th>
+                     <th>
+                         Description
+                     </th>
+                     <th>
+                         Vendor
+                     </th>
+                     <th>
+                         Price
+                     </th>
+                     <th>
+                         Shop
+                     </th>
+                 </tr>
+                     {{#each data.products}}
+                 <tr>
+                   <td  class="col-md-1">
+                       <img src="{{image}}" width="80" height="58" >
+                   </td>
+                     <td  class="col-md-4">
+                         {{title}}
+                     </td>
+                     <td class="col-md-4">
+                       {{description }}
+                     </td>
+                     <td "col-md-1">
+                         {{vendor}}
+                      </td>
+                      <td class="col-md-1">
+                         {{price}}
+                      </td>
+                      <td "col-md-1">
+                          <a target="_blank" class="btn btn-default" href="{{url}}" role="button">See</a>
+                      </td>
+                 </tr>
+                         {{/each}}
+
+        </table>
+
+  </div>
+<!-- pagination -->
+</div>
+
+</div>

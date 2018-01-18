@@ -137,6 +137,13 @@
     "title": "Dendrobium jenkinsii"
   },
   {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-kanburiense-p-818.html",
+    "price": "13.95 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x307xdendrobium_kanburiense_gross.jpg.pagespeed.ic.e2z29fru1d.jpg",
+    "description": "Flowering size",
+    "title": "Dendrobium kanburiense"
+  },
+  {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-kingianum-p-175.html",
     "price": "16.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x172xdendrobium_kingianum3_gross.jpg.pagespeed.ic.uSf4t4IW9h.jpg",
@@ -197,13 +204,6 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x166xdendrobium_mohlianum_gross.jpg.pagespeed.ic.tXwW-sJCuj.jpg",
     "description": "Flowering size in one year",
     "title": "Dendrobium mohlianum"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-185.html",
-    "price": "23.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
-    "description": "Flowering size, big adult plant",
-    "title": "Dendrobium nudum"
   }
 ,
   {
@@ -211,6 +211,13 @@
     "price": "18.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
     "description": "Flowering size",
+    "title": "Dendrobium nudum"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/dendrobium-nudum-p-185.html",
+    "price": "23.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x174xdendrobium_nudum5_gross.jpg.pagespeed.ic.7dv2H5OLpj.jpg",
+    "description": "Flowering size, big adult plant",
     "title": "Dendrobium nudum"
   },
   {
@@ -281,8 +288,5 @@
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xdendrobium_wassellii_gross.jpg.pagespeed.ic.ZcWHTX-7gw.jpg",
     "description": "Flowering size orchid",
     "title": "Dendrobium wassellii"
-  },
-  {
-    "price": " €"
   }
 ]

@@ -38,10 +38,10 @@ view.on('post', function(next){
       //console.log(dir);
 
       data = JSON.parse(fs.readFileSync(dir, 'utf8'));
-      
+
       dataAll = dataAll.concat(data);
     };
-    fs.writeFile('./public/vendorsFull/'+ vendorLow + 'All.json', JSON.stringify(dataAll, null, 2));
+    fs.writeFile('./public/vendorsAll/'+ vendorLow + 'All.json', JSON.stringify(dataAll, null, 2));
     console.log("to Json");
 });
 

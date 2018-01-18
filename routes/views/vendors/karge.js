@@ -1,7 +1,7 @@
 var keystone = require('keystone');
 var fs = require('fs');
 var Xray = require('x-ray');
-var Horseman = require('node-horseman');
+
 
 
 var x = Xray({

@@ -4,73 +4,87 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-albertiana-p-1422.html",
     "price": "4.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x206xtillandsia_albertiana_gross.jpg.pagespeed.ic.s_D76ykwUu.jpg",
-    "description": "Flowering size"
+    "description": "Flowering size",
+    "title": "Tillandsia albertiana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-albida-p-1069.html",
     "price": "3.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_albida_gross.jpg.pagespeed.ic.1bLo0rLIw8.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_albida_gross.jpg.pagespeed.ic.1bLo0rLIw8.jpg",
+    "title": "Tillandsia albida"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-andreana-p-1444.html",
     "price": "6.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x210xtillandsia_andreana_gross.jpg.pagespeed.ic.7uUoE3_z85.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x210xtillandsia_andreana_gross.jpg.pagespeed.ic.7uUoE3_z85.jpg",
+    "title": "Tillandsia andreana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-crispa-p-772.html",
     "price": "7.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_crispa_gross.jpg.pagespeed.ic._t3hITzu5i.jpg",
-    "description": "Syn. Racinaea crispa, Flowering size"
+    "description": "Syn. Racinaea crispa, Flowering size",
+    "title": "Tillandsia crispa"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-diaguitensis-fragrant-p-1343.html",
     "price": "7.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x223xtillandsia_diaguitensis_gross.jpg.pagespeed.ic.4fIRFOheeB.jpg",
-    "description": "Flowering size"
+    "description": "Flowering size",
+    "title": "Tillandsia diaguitensis fragrant"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-edithae-p-1341.html",
     "price": "13.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xtillandsia_edithae_gross.jpg.pagespeed.ic.ltvXbpfOc3.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x208xtillandsia_edithae_gross.jpg.pagespeed.ic.ltvXbpfOc3.jpg",
+    "title": "Tillandsia edithae"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-flabellata-p-1279.html",
     "price": "4.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_flabellata_gross.jpg.pagespeed.ic.bJje-sX38s.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xtillandsia_flabellata_gross.jpg.pagespeed.ic.bJje-sX38s.jpg",
+    "title": "Tillandsia flabellata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-kautskyi-p-1435.html",
-    "price": "19.00 €"
+    "price": "19.00 €",
+    "title": "Tillandsia kautskyi"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-secunda-p-1471.html",
     "price": "8.00 €",
-    "description": "Young plant"
+    "description": "Young plant",
+    "title": "Tillandsia secunda"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-sprengeliana-p-1342.html",
     "price": "15.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x292xtillandsia_sprengeliana_gross.jpg.pagespeed.ic.RpLm2wJqtx.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x292xtillandsia_sprengeliana_gross.jpg.pagespeed.ic.RpLm2wJqtx.jpg",
+    "title": "Tillandsia sprengeliana"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-umbellata-p-674.html",
     "price": "11.50 €",
-    "description": "Flowering size, 10 - 15cm"
-  },
-  {
-    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-usneoides-p-1072.html",
-    "price": "5.00 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg"
+    "description": "Flowering size, 10 - 15cm",
+    "title": "Tillandsia umbellata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-usneoides-p-1073.html",
     "price": "7.95 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg",
+    "title": "Tillandsia usneoides"
+  },
+  {
+    "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-usneoides-p-1072.html",
+    "price": "5.00 €",
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x333xtillandsia_usneoides_gross.jpg.pagespeed.ic.zHIiKCkmUB.jpg",
+    "title": "Tillandsia usneoides"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/tillandsia-xiphioides-fragrant-p-1423.html",
     "price": "6.50 €",
-    "image": "https://cdn.orchideenwlodarczyk.de/images/250x239xtillandsia_xiphioides_gross.jpg.pagespeed.ic.84jhSSKm0Q.jpg"
+    "image": "https://cdn.orchideenwlodarczyk.de/images/250x239xtillandsia_xiphioides_gross.jpg.pagespeed.ic.84jhSSKm0Q.jpg",
+    "title": "Tillandsia xiphioides fragrant"
   },
   {
     "price": " €"

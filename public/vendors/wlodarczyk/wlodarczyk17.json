@@ -4,7 +4,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/acineta-superba-p-1473.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x306xacineta_superba_gross.jpg.pagespeed.ic.mPaYVG-Vv9.jpg",
-    "description": "Young plant"
+    "description": "Young plant",
+    "title": "Acineta superba"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aeranthes-henrici-p-299.html",
@@ -17,7 +18,8 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aeranthes-ramosa-p-887.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x237xaeranthes_ramosa_gross.jpg.pagespeed.ic.rQL1Ro4gA4.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Aeranthes ramosa"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aerides-flabellata-p-1391.html",
@@ -29,19 +31,22 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aerides-houlletiana-fragrant-p-593.html",
     "price": "23.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x181xaerides_houlletianum_gross.jpg.pagespeed.ic.0eTGAeCpOh.jpg",
-    "description": "Flowering size orchid, fragrant"
+    "description": "Flowering size orchid, fragrant",
+    "title": "Aerides houlletiana, fragrant"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/anathallis-linearifolia-p-1038.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x188xanathallis_linearifolia_gross.jpg.pagespeed.ic.XKiJ05lxDW.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Anathallis linearifolia"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/anathallis-pabstii-p-1239.html",
     "price": "15.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x198xanathallis_pabstii_gross.jpg.pagespeed.ic.qOeScuNYsH.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Anathallis pabstii"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/aspasia-lunata-p-233.html",
@@ -53,13 +58,15 @@
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-cucullata-p-750.html",
     "price": "17.00 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x274xbarbosella_cucullata_gross.jpg.pagespeed.ic.1weEn4i1cV.jpg",
-    "description": "Flowering size"
+    "description": "Flowering size",
+    "title": "Barbosella cucullata"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barbosella-handroi-p-234.html",
     "price": "11.95 €",
     "image": "https://cdn.orchideenwlodarczyk.de/images/250x220xbarbosella_handroi_gross.jpg.pagespeed.ic.oV7xZC7jzx.jpg",
-    "description": "Flowering size orchid"
+    "description": "Flowering size orchid",
+    "title": "Barbosella handroi"
   },
   {
     "url": "https://www.orchideenwlodarczyk.de/shop/catalog/barkeria-whartoniana-p-1572.html",
